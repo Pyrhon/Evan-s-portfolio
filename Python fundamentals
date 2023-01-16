@@ -11,6 +11,8 @@ variable[1:-1]: returns second and second last item
 Number operators: +-*%/**...
 Type conversions: int(x), str(x), float(x), bool(x)
 
+Lists use square brackets and are iterable, touples use parathesis and are not iterable(also cannot be modified)
+
 
 Control Flow:
 Comparison operators: >= <=...
@@ -23,3 +25,20 @@ Loop statements: for, while, else
 
 
 Functions:
+#Defining functions:
+def greet():
+  print("Hello")
+greet(parameter):
+  (expression)
+Parameter is the input that you define for your function
+Argument is the actual value of the parameter
+The two types of functions:
+1) performs a task
+2) returns a value 
+None is the return value of a function that did not state a returned value.
+Keyword arguments: used to organise and make code easier to understand
+  print(increment(2, by=1)
+xargs: provide a variable amount of arguments
+  def multiply(*numbers)
+xxargs: allows you to add keyword arguments
+(Python packages them into a dictionary)

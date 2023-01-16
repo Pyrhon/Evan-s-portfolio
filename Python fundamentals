@@ -11,3 +11,15 @@ variable[1:-1]: returns second and second last item
 Number operators: +-*%/**...
 Type conversions: int(x), str(x), float(x), bool(x)
 
+
+Control Flow:
+Comparison operators: >= <=...
+  Comparing strings: 'bag' > 'apple' as 'b' > 'a' (ord(b) = 98
+Conditional statements: if, elif, else
+Ternary operator: operators that takes in multiple arguements
+Logical operators: and, or, not
+Short circuit Evaluation: As soon as one condition is fulfilled, the conditional statement will stop.
+Loop statements: for, while, else
+
+
+Functions:

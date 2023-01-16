@@ -1,0 +1,13 @@
+Primitive Types:
+string = "hello"
+integers = 1
+floats = 1.1
+booleans = True
+#String methods:
+Escape Sequences: "Python \" Programming"
+Formatted strings: name = f"{first} {last}"
+variable[1:-1]: returns second and second last item
+
+Number operators: +-*%/**...
+Type conversions: int(x), str(x), float(x), bool(x)
+
